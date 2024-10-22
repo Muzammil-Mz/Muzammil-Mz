@@ -1,4 +1,5 @@
-<h1 align="left">Hey 👋 What's up? I'm Muzammil ... Scholar of C24 </h1>
+<h1 align="left">Hey 👋 What's up? </h1> 
+<h2 align='left'>I'm Muzammil ... Scholar of C24 </h2>
 
 ###
 
