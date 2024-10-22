@@ -3,9 +3,6 @@
 ###
 
 <h2 align="left">About me</h2>
-
-###
-
 <p align="left">✨A passionate MERN Stack developer from Code For India Foundation ...<br>📚 I'm currently learning MERN Stack Web Development <br>🎯 Goals: Mastering a core programming language, contributing to code reviews, and successfully collaborating on a team project </p>
 
 ###
