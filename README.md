@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">I'm Muzammil ... Scholar of C24 </p>
+<h1 align="left">Hey 👋 What's up? I'm Muzammil ... Scholar of C24 </h1>
 
 ###
 
