@@ -1,9 +1,26 @@
-#                💫Muzammil
-<h2 >          Full-Stack Web Developer | WordPress Expert | Digital Forensics Enthusiast        </h3> <br>
-<h3>🚀   
-💡 Passionate about web development, WordPress security, and building scalable applications.  
-🎯 Currently expanding expertise in MERN Stack & No-Code Platforms to adapt to industry trends.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&height=60&lines=Hi,+I'm+Muzammil;MERN+Stack+Developer!" alt="Typing SVG">
+</h1>
 
+<h3 align="center">          Full-Stack Web Developer | WordPress Expert | Digital Forensics Enthusiast        </h3> 
+<p align="center">🚀   
+💡 Passionate about web development, WordPress security, and building scalable applications.<br>
+🎯 Currently expanding expertise in MERN Stack & No-Code Platforms to adapt to industry trends.</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muzammil-mz&label=Profile%20Views&color=0e75b6&style=flat-square" alt="muzammil-mz" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/syedomer17" target="_blank">
+    <img src="https://img.shields.io/github/followers/muzammil-mz?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/syedomer17" target="_blank">
+    <img src="https://img.shields.io/github/stars/muzammil-mz?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+  </a>
+</p>
 <br>🚀 What I'm Working On: <br>
 Building a platform for the forensic science community to share knowledge, case studies, and research.
 Developing and managing WordPress websites with a focus on security, SEO, and performance optimization.
@@ -18,16 +35,29 @@ I have experience with both no-code platforms like WordPress and custom full-sta
 
 
 <br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muzammil-mz&label=Profile%20Views&color=0e75b6&style=flat-square" alt="muzammil-mz" />
-</p>
-
-## Projects
-https://grocery.muzammil.xyz A Grocery Suggestions web application taking simple user details in a form and suggesting groceries based on real data consumption of various families using gemini AI built for merakirana.com 
 
 <br>
 
-https://jummah.muzammil.xyz A simple and user-friendly web application designed to locate nearby Masjids for Jummah (Friday) prayers. Users can search by area, view exact prayer times, and get Google Maps directions for the masjid — making it easier to plan their Friday prayer.
+### ✍️ Notable Projects
+
+1️⃣ Jumu'ah Prayer Finder (MERN Stack)
+📍 Find Jumu'ah prayer times for various masjids in Hyderabad
+🔗 https://jummah.muzammil.xyz
+
+2️⃣ Grocery Recommendations for merakirana.com
+🥜 A Grocery Suggestions web application taking simple user details in a form and suggesting groceries based on real data consumption of various families using gemini AI built for merakirana
+🔗 https://grocery.muzammil.xyz
+
+3️⃣ WordPress Blog – ForensicExplained.com
+📰 Forensic science articles, case studies & community discussions (Currently Down)
+
+4️⃣ CRM System for HE Holdings (Odoo ERP)
+💼 Subscription-based CRM with payment tracking & automated reminders
+
+5️⃣ Gym Management Web App (MERN)
+🏋️ Tracks user fees, diet plans, and customized workout routines
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muzammilmd/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mujjuimran74) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muzammilmd.mujju@gmail.com) 
@@ -42,22 +72,4 @@ https://jummah.muzammil.xyz A simple and user-friendly web application designed 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muzammil-mz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Notable Projects
 
-1️⃣ Jumu'ah Prayer Finder (MERN Stack)
-📍 Find Jumu'ah prayer times for various masjids in Hyderabad
-🔗 jummah.muzammil.xyz
-
-2️⃣ WordPress Blog – ForensicExplained.com
-📰 Forensic science articles, case studies & community discussions (Currently Down)
-
-3️⃣ CRM System for HE Holdings (Odoo ERP)
-💼 Subscription-based CRM with payment tracking & automated reminders
-
-4️⃣ Gym Management Web App (MERN)
-🏋️ Tracks user fees, diet plans, and customized workout routines
-
----
-[![](https://visitcount.itsvg.in/api?id=muzammil-mz&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
