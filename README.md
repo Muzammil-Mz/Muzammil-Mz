@@ -16,8 +16,17 @@ Deploying and managing cloud-based applications on DigitalOcean.<br> <br> 🎯 F
 I enjoy reverse engineering and investigating digital evidence—it's like being a detective in the cyber world!
 I have experience with both no-code platforms like WordPress and custom full-stack applications, making me adaptable to various project needs.
 
+
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muzammil-mz&label=Profile%20Views&color=0e75b6&style=flat-square" alt="muzammil-mz" />
+</p>
+
 ## Projects
-https://grocery.muzammil.xyz A Grocery Suggestions web application taking simple user details in a form and suggesting groceries based on real data consumption of various families using gemini AI built for merakirana.com
+https://grocery.muzammil.xyz A Grocery Suggestions web application taking simple user details in a form and suggesting groceries based on real data consumption of various families using gemini AI built for merakirana.com 
+
+<br>
+
 https://jummah.muzammil.xyz A simple and user-friendly web application designed to locate nearby Masjids for Jummah (Friday) prayers. Users can search by area, view exact prayer times, and get Google Maps directions for the masjid — making it easier to plan their Friday prayer.
 
 ## 🌐 Socials:
