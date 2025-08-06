@@ -42,7 +42,7 @@ I have experience with both no-code platforms like WordPress and custom full-sta
 
 1️⃣ Jumu'ah Prayer Finder (MERN Stack)
 📍 Find Jumu'ah prayer times for various masjids in Hyderabad
-🔗 https://jummah.muzammil.xyz
+🔗 https://masjidnearby.live
 
 2️⃣ Grocery Recommendations for merakirana.com
 🥜 A Grocery Suggestions web application taking simple user details in a form and suggesting groceries based on real data consumption of various families using gemini AI built for merakirana
