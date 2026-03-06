@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&height=60&lines=Hi,+I'm+Muzammil;Cybersecurity+Learner+%26+Investigation+Enthusiast!" alt="Typing SVG">
 </h1>
 
-<h3 align="center">Cybersecurity Learner | Networking (CCNA) | Linux (RHCSA) | OSINT & Digital Investigation</h3> 
+<h3 align="center">Cybersecurity Learner |  Networking (CCNA) | Linux (RHCSA) | <br> OSINT & Digital Investigation Full Stack Web Developer MERN |</h3> 
 
 <p align="center">
-Focused on developing skills in cybersecurity, digital investigations, and threat analysis.<br>
+Focused on developing skills in cybersecurity, digital investigations, threat analysis.<br>
 Exploring networking, Linux environments, OSINT techniques, and AI-assisted analysis for cyber investigations.<br>
 Actively learning and looking for opportunities to contribute and grow in cybersecurity.
 </p>
@@ -70,13 +70,6 @@ Academic project comparing reliability and performance of free digital forensic 
 5️⃣ Jumu'ah Prayer Finder (MERN Stack)  
 Application to find nearby masjids and Jumu'ah prayer timings in Hyderabad.  
 🔗 https://masjidnearby.live
-
-6️⃣ CRM System for HE Holdings (Odoo ERP)  
-Subscription-based CRM with payment tracking and automated reminders.
-
-7️⃣ Gym Management Web App (MERN)  
-Application for tracking memberships, payments, workout plans, and user management.
-
 
 
 ## 🌐 Socials:
