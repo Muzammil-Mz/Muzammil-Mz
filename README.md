@@ -1,11 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&height=60&lines=Hi,+I'm+Muzammil;MERN+Stack+Developer!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&height=60&lines=Hi,+I'm+Muzammil;Cybersecurity+Learner+%26+Investigation+Enthusiast!" alt="Typing SVG">
 </h1>
 
-<h3 align="center">          Full-Stack Web Developer | WordPress Expert | Digital Forensics Enthusiast        </h3> 
-<p align="center">🚀   
-💡 Passionate about web development, WordPress security, and building scalable applications.<br>
-🎯 Currently expanding expertise in MERN Stack & No-Code Platforms to adapt to industry trends.</p>
+<h3 align="center">Cybersecurity Learner | Networking (CCNA) | Linux (RHCSA) | OSINT & Digital Investigation</h3> 
+
+<p align="center">
+Focused on developing skills in cybersecurity, digital investigations, and threat analysis.<br>
+Exploring networking, Linux environments, OSINT techniques, and AI-assisted analysis for cyber investigations.<br>
+Actively learning and looking for opportunities to contribute and grow in cybersecurity.
+</p>
 
 ---
 
@@ -21,17 +24,28 @@
     <img src="https://img.shields.io/github/stars/muzammil-mz?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
   </a>
 </p>
+
 <br>🚀 What I'm Working On: <br>
-Building a platform for the forensic science community to share knowledge, case studies, and research.
-Developing and managing WordPress websites with a focus on security, SEO, and performance optimization.
-Enhancing my full-stack development skills, particularly in React, Node.js, and MongoDB.
-<br> <br> 🤝 Looking to Collaborate On:<br>Web development projects, including MERN stack applications and WordPress-based solutions.
-Expanding my expertise in WordPress, particularly in plugin development and custom solutions.<br><br>📚 Currently Learning:<br>Advanced WordPress development, including custom plugin and theme development.<br>Frontend performance optimization for React and WordPress.<br>DevOps and cloud deployment, focusing on DigitalOcean, Linux servers, and security best practices.<br><br>💡 Ask me about:<br>Full-stack development (MERN stack) and WordPress security.
-SEO, digital marketing, and website performance optimization.
-Cybersecurity, digital forensics, and fake email detection techniques.
-Deploying and managing cloud-based applications on DigitalOcean.<br> <br> 🎯 Fun Facts:<br>My journey started in forensic science, but I transitioned into web development to have complete control over website security and functionality.
-I enjoy reverse engineering and investigating digital evidence—it's like being a detective in the cyber world!
-I have experience with both no-code platforms like WordPress and custom full-stack applications, making me adaptable to various project needs.
+Developing and experimenting with cybersecurity projects related to phishing detection and investigation techniques.<br>
+Practicing networking and Linux environments to understand threat detection and security operations.<br>
+Exploring OSINT methods and AI tools for cyber investigation and analysis.
+
+<br> <br> 🤝 Looking to Collaborate On:<br>
+Cybersecurity learning projects, OSINT tools, and security-focused open source initiatives.
+
+<br><br>📚 Currently Learning:<br>
+Cybersecurity Professional Course (ongoing).<br>
+Security Operations concepts, network monitoring, and investigation workflows.<br>
+Practical use of tools such as Wireshark, Nmap, Kali Linux, and OSINT frameworks.
+
+<br><br>💡 Ask me about:<br>
+Networking fundamentals (CCNA concepts) and Linux environments (RHCSA exposure).<br>
+Cybersecurity learning, phishing detection experiments, and OSINT techniques.<br>
+JavaScript and Bash scripting for automation and small investigative tools.
+
+<br> <br> 🎯 Focus:<br>
+Building a career in cybersecurity with interest in digital investigations, threat analysis, and cybercrime research.<br>
+Actively exploring opportunities to apply technical skills in real-world cybersecurity environments.
 
 
 <br>
@@ -40,22 +54,28 @@ I have experience with both no-code platforms like WordPress and custom full-sta
 
 ### ✍️ Notable Projects
 
-1️⃣ Jumu'ah Prayer Finder (MERN Stack)
-📍 Find Jumu'ah prayer times for various masjids in Hyderabad
-🔗 https://masjidnearby.live
+1️⃣ Phishing Detection Tool  
+Research-based project exploring techniques to identify malicious URLs and phishing patterns.
 
-2️⃣ Grocery Recommendations for merakirana.com
-🥜 A Grocery Suggestions web application taking simple user details in a form and suggesting groceries based on real data consumption of various families using gemini AI built for merakirana
+2️⃣ AI Generated Image Detection Study  
+Research project analyzing differences between AI-generated images and natural images and its relevance to cybercrime investigations.
+
+3️⃣ AI-Based Grocery Recommendation System  
+Web application using Gemini AI to analyze user inputs and generate recommendations.  
 🔗 https://grocery.muzammil.xyz
 
-3️⃣ WordPress Blog – ForensicExplained.com
-📰 Forensic science articles, case studies & community discussions (Currently Down)
+4️⃣ Digital Forensics Tools Comparison  
+Academic project comparing reliability and performance of free digital forensic tools.
 
-4️⃣ CRM System for HE Holdings (Odoo ERP)
-💼 Subscription-based CRM with payment tracking & automated reminders
+5️⃣ Jumu'ah Prayer Finder (MERN Stack)  
+Application to find nearby masjids and Jumu'ah prayer timings in Hyderabad.  
+🔗 https://masjidnearby.live
 
-5️⃣ Gym Management Web App (MERN)
-🏋️ Tracks user fees, diet plans, and customized workout routines
+6️⃣ CRM System for HE Holdings (Odoo ERP)  
+Subscription-based CRM with payment tracking and automated reminders.
+
+7️⃣ Gym Management Web App (MERN)  
+Application for tracking memberships, payments, workout plans, and user management.
 
 
 
