@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&height=60&lines=Hi,+I'm+Muzammil;Cybersecurity+Learner+%26+Investigation+Enthusiast!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&height=60&lines=Hi,+I'm+Muzammil !!!" alt="Typing SVG">
 </h1>
 
 <h3 align="center">Cybersecurity Learner |  Networking (CCNA) | Linux (RHCSA) | <br> OSINT & Digital Investigation Full Stack Web Developer MERN |</h3> 
@@ -56,20 +56,23 @@ Actively exploring opportunities to apply technical skills in real-world cyberse
 
 1️⃣ Phishing Detection Tool  
 Research-based project exploring techniques to identify malicious URLs and phishing patterns.
+🔗 https://github.com/Muzammil-Mz/cybSec2
 
 2️⃣ AI Generated Image Detection Study  
 Research project analyzing differences between AI-generated images and natural images and its relevance to cybercrime investigations.
+🔗 https://drive.google.com/file/d/1tLc-x9q_p-DBgRYHhIVEN0BNTspJY57k/view?usp=drivesdk
 
 3️⃣ AI-Based Grocery Recommendation System  
 Web application using Gemini AI to analyze user inputs and generate recommendations.  
-🔗 https://grocery.muzammil.xyz
+🔗 https://github.com/Muzammil-Mz/Grocery-Suggestions-with-AI
 
 4️⃣ Digital Forensics Tools Comparison  
 Academic project comparing reliability and performance of free digital forensic tools.
+🔗https://drive.google.com/file/d/1_JjP29Llu6Jq4QlliVj4Rk-GZABQIDcR/view?usp=drivesdk
 
 5️⃣ Jumu'ah Prayer Finder (MERN Stack)  
 Application to find nearby masjids and Jumu'ah prayer timings in Hyderabad.  
-🔗 https://masjidnearby.live
+🔗 https://github.com/Muzammil-Mz/jummahPrayer2
 
 
 ## 🌐 Socials:
