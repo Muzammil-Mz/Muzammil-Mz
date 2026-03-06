@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&height=60&lines=Hi,+I'm+Muzammil;Cybersecurity+Learner%26" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=500&height=60&lines=Hi,+I'm+Muzammil;Cybersecurity+Learner" alt="Typing SVG">
 </h1>
 
 <h3 align="center">Cybersecurity Learner |  Networking (CCNA) | Linux (RHCSA) <br> OSINT & Digital Investigation | Full Stack Web Developer MERN </h3> 
